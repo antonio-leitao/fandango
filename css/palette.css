@@ -1,0 +1,58 @@
+* {
+    /* CSS HEX */
+    --hex-foreground: #D4cDc0ff
+    --hex-salmon: #f2856dff;
+    --hex-yellow: #f2b56bff;
+    --hex-pistachio: #c1d98fff;
+    --hex-azure: #8ed8f8ff;
+    --hex-blue: #8ca7d7ff;
+    --hex-violet: #b293bfff;
+    --hex-highlight: #e7e8e9ff;
+    --hex-text: #bbbbbbff;
+    --hex-subtext: #87959bff;
+    --hex-subdued: #536e7aff;
+    --hex-very-subdued: #2e3c44ff;
+    --hex-hover: #1c2329ff;
+    --hex-surfaces: #13171bff;
+    --hex-lines: #0e1114ff;
+    --hex-shade: #0c0e11ff;
+    --hex-base: #090a0dff;
+
+    /* CSS HSL */
+    --hsl-foreground: hsla(39, 19%, 79%,1);
+    --hsl-salmon: hsla(11, 84%, 69%, 1);
+    --hsl-yellow: hsla(33, 84%, 68%, 1);
+    --hsl-pistachio: hsla(79, 49%, 71%, 1);
+    --hsl-azure: hsla(198, 88%, 76%, 1);
+    --hsl-blue: hsla(218, 48%, 70%, 1);
+    --hsl-violet: hsla(282, 26%, 66%, 1);
+    --hsl-highlight: hsla(210, 4%, 91%, 1);
+    --hsl-text: hsla(0, 0%, 73%, 1);
+    --hsl-subtext: hsla(198, 9%, 57%, 1);
+    --hsl-subdued: hsla(198, 19%, 40%, 1);
+    --hsl-very-subdued: hsla(202, 19%, 22%, 1);
+    --hsl-hover: hsla(208, 19%, 14%, 1);
+    --hsl-surfaces: hsla(210, 17%, 9%, 1);
+    --hsl-lines: hsla(210, 18%, 7%, 1);
+    --hsl-shade: hsla(216, 17%, 6%, 1);
+    --hsl-base: hsla(225, 18%, 4%, 1);
+
+    /* CSS RGB */
+    --rgba-foreground: rgba(212, 205, 192,1);
+    --rgba-salmon: rgba(242, 133, 109, 1);
+    --rgba-yellow: rgba(242, 181, 107, 1);
+    --rgba-pistachio: rgba(193, 217, 143, 1);
+    --rgba-azure: rgba(142, 216, 248, 1);
+    --rgba-blue: rgba(140, 167, 215, 1);
+    --rgba-violet: rgba(178, 147, 191, 1);
+    --rgba-highlight: rgba(231, 232, 233, 1);
+    --rgba-text: rgba(187, 187, 187, 1);
+    --rgba-subtext: rgba(135, 149, 155, 1);
+    --rgba-subdued: rgba(83, 110, 122, 1);
+    --rgba-very-subdued: rgba(46, 60, 68, 1);
+    --rgba-hover: rgba(28, 35, 41, 1);
+    --rgba-surfaces: rgba(19, 23, 27, 1);
+    --rgba-lines: rgba(14, 17, 20, 1);
+    --rgba-shade: rgba(12, 14, 17, 1);
+    --rgba-base: rgba(9, 10, 13, 1);
+}
