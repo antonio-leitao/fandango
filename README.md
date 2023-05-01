@@ -7,6 +7,7 @@ It is perfect for coding, terminal UIs and dark mode design.
 <img alt="Fandango Showcase" src="assets/showcase.png" width="600" />
 </p>
 ## Palette
+
 | Patch | Color Name | HEX | RGB | HSL |
 | --- | --- | --- | --- | --- |
 | ![](assets/foreground.png) | foreground | #D4cDc0ff | rgb(212, 205, 192) | hsl(39, 19%, 79%) |
