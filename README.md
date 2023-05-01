@@ -6,13 +6,14 @@ It is perfect for coding, terminal UIs and dark mode design.
 <p align="center">
 <img alt="Fandango Showcase" src="assets/showcase.png" width="600" />
 </p>
+
 ## Palette
 
 <table>
     <thead>
         <tr>
-            <th>Patch</th>
-            <th>Color Name</th>
+            <th>Color</th>
+            <th>Name</th>
             <th>HEX</th>
             <th>RGB</th>
             <th>HSL</th>
@@ -97,8 +98,8 @@ It is perfect for coding, terminal UIs and dark mode design.
 		<td><code>hsl(198, 19%, 40%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/very-subdued.png" height="23" width="23"/></td>
-		<td>very-subdued</td>
+		<td><img src="assets/muted.png" height="23" width="23"/></td>
+		<td>muted</td>
 		<td><code>#2e3c44</code></td>
 		<td><code>rgb(46, 60, 68)</code></td>
 		<td><code>hsl(202, 19%, 22%)</code></td>
