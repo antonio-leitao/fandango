@@ -1,20 +1,5 @@
 # Fandango
 
-<p align="center">
-	<a href="https://github.com/antonio-leitao/fandango/stargazers">
-		<img alt="Stargazers" src="https://img.shields.io/github/stars/antonio-leitao?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
-  </a>
-	<a href="https://github.com/antonio-leitao/fandango/stargazers">
-		<img alt="Stargazers" src="https://img.shields.io/github/stars/antonio-leitao?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
-  </a>
-	<a href="https://github.com/antonio-leitao/fandango/stargazers">
-		<img alt="Stargazers" src="https://img.shields.io/github/stars/antonio-leitao?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
-  </a>
-	<a href="https://github.com/antonio-leitao/fandango/stargazers">
-		<img alt="Stargazers" src="https://img.shields.io/github/stars/antonio-leitao?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
-  </a>
-</p>
-
 Minimal distractions colorscheme.
 Fandango is a velvety black color scheme. Its objective is to be soothing by diluting unncessary clutter such as UI and comments as to reduce visual strain.
 To fade rather than pop.
