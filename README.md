@@ -1,11 +1,48 @@
 # Fandango
+
+<p align="center">
+	<a href="https://github.com/antonio-leitao/fandango/stargazers">
+		<img alt="Stargazers" src="https://img.shields.io/github/stars/antonio-leitao?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
+  </a>
+	<a href="https://github.com/antonio-leitao/fandango/stargazers">
+		<img alt="Stargazers" src="https://img.shields.io/github/stars/antonio-leitao?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
+  </a>
+	<a href="https://github.com/antonio-leitao/fandango/stargazers">
+		<img alt="Stargazers" src="https://img.shields.io/github/stars/antonio-leitao?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
+  </a>
+	<a href="https://github.com/antonio-leitao/fandango/stargazers">
+		<img alt="Stargazers" src="https://img.shields.io/github/stars/antonio-leitao?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
+  </a>
+</p>
+
 Minimal distractions colorscheme.
-Fandango is a velvety black color scheme. Its objective is to be soothing by diluting unncessary clutter such as UI and comments as to reduce visual strain. 
+Fandango is a velvety black color scheme. Its objective is to be soothing by diluting unncessary clutter such as UI and comments as to reduce visual strain.
 To fade rather than pop.
 It is perfect for coding, terminal UIs and dark mode design.
+
 <p align="center">
 <img alt="Fandango Showcase" src="assets/showcase.png" width="600" />
 </p>
+
+## 🚀 Installation
+
+You can install the Fandango theme without cloning the repository by running one of the commands below in your terminal. The script will automatically detect your supported applications and install the necessary theme files.
+
+### One-Line Install
+
+**Using `curl` (recommended):**
+
+```bash
+bash <(curl -sSL https://raw.githubusercontent.com/antonio-leitao/fandango/main/install.sh)
+```
+
+or using wget:
+
+```bash
+bash <(wget -qO- https://raw.githubusercontent.com/antonio-leitao/fandango/main/install.sh)
+```
+
+Note: The script will place the theme files in the correct directories and print the final steps needed to activate the theme for each application.
 
 ## Palette
 
